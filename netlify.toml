@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'No build required for Flask app'"
+  publish = "static"  # Folder containing your static files
